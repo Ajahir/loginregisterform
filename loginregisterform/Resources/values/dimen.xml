@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+	<dimen name="size47">47.3dp</dimen>
+	<dimen name="size0">0dp</dimen>
+	<dimen name="size5">5dp</dimen>
+	<dimen name="size6">6dp</dimen>
+	<dimen name="size90">90dp</dimen>
+	
+	<dimen name="size200">200dp</dimen>
+	<dimen name="size45">45dp</dimen>
+	<dimen name="size48">48dp</dimen>
+	<dimen name="size100">100dp</dimen>
+	<dimen name="size36">36dp</dimen>
+	<dimen name="size72">72dp</dimen>
+	<dimen name="size14">14dp</dimen>
+
+	
+	<dimen name="size56">56dp</dimen>
+	<dimen name="size10">10dp</dimen>
+	<dimen name="size25">25dp</dimen>
+	<dimen name="size16">16dp</dimen>
+	<dimen name="size20">20dp</dimen>
+	
+
+	<dimen name="size60">60dp</dimen>
+
+
+
+
+
+
+
+
+	<dimen name="size50">50dp</dimen>
+
+
+
+
+
+	<dimen name="scale35">35sp</dimen>
+	<dimen name="scale15">15sp</dimen>
+	<dimen name="scale17">17sp</dimen>
+	<dimen name="scale20">20sp</dimen>
+	
+	
+	</resources>
